@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/iamrohanmandal/NewsMonkey_classbased.git/static/css/main.e6c13ad2.css",
-    "main.js": "/iamrohanmandal/NewsMonkey_classbased.git/static/js/main.c73da1af.js",
-    "static/js/787.4cbb8072.chunk.js": "/iamrohanmandal/NewsMonkey_classbased.git/static/js/787.4cbb8072.chunk.js",
-    "index.html": "/iamrohanmandal/NewsMonkey_classbased.git/index.html",
-    "main.e6c13ad2.css.map": "/iamrohanmandal/NewsMonkey_classbased.git/static/css/main.e6c13ad2.css.map",
-    "main.c73da1af.js.map": "/iamrohanmandal/NewsMonkey_classbased.git/static/js/main.c73da1af.js.map",
-    "787.4cbb8072.chunk.js.map": "/iamrohanmandal/NewsMonkey_classbased.git/static/js/787.4cbb8072.chunk.js.map"
+    "main.css": "/NewsMonkey_classbased/static/css/main.e6c13ad2.css",
+    "main.js": "/NewsMonkey_classbased/static/js/main.5c913708.js",
+    "static/js/787.4cbb8072.chunk.js": "/NewsMonkey_classbased/static/js/787.4cbb8072.chunk.js",
+    "index.html": "/NewsMonkey_classbased/index.html",
+    "main.e6c13ad2.css.map": "/NewsMonkey_classbased/static/css/main.e6c13ad2.css.map",
+    "main.5c913708.js.map": "/NewsMonkey_classbased/static/js/main.5c913708.js.map",
+    "787.4cbb8072.chunk.js.map": "/NewsMonkey_classbased/static/js/787.4cbb8072.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c73da1af.js"
+    "static/js/main.5c913708.js"
   ]
 }
